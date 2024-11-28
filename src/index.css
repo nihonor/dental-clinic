@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+  @apply bg-white shadow-md rounded-lg;
+}
+.button{
+  @apply px-4 bg-btncolor py-4 rounded uppercase text-xs font-semibold text-white tracking-wider font-monteserat 
+}
