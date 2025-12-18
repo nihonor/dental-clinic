@@ -22,10 +22,10 @@ const Client = () => {
             <h1 className="text-xs">Designer</h1>
           </div>
           <div className="flex">
-            {[...Array(5)].map((, index) => {
+            {[...Array(5)].map((_, index) => {
               const currentRating = index + 1;
               return (
-                <label>
+                <label key={index}>
                   <input
                     type="radio"
                     className="hidden"
