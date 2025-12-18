@@ -22,7 +22,7 @@ const Client = () => {
             <h1 className="text-xs">Designer</h1>
           </div>
           <div className="flex">
-            {[...Array(5)].map((star, index) => {
+            {[...Array(5)].map((, index) => {
               const currentRating = index + 1;
               return (
                 <label>

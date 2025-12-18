@@ -1,7 +1,6 @@
-import React from "react";
-import Emerg from "../card/Emerg";
-import icon1 from "../../assets/icon cool-icon-15.png";
 import icon2 from "../../assets/006-heart-rate.png";
+import icon1 from "../../assets/icon cool-icon-15.png";
+import Emerg from "../card/Emerg";
 const Impre = () => {
   return (
     <>
