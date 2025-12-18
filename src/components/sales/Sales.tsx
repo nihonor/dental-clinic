@@ -1,7 +1,6 @@
-import React from "react";
+import bones from "../../assets/product-cover-124 sec-.png";
+import doctor from "../../assets/product-cover-125 sec-.png";
 import Divsale from "../divsale/Divsale";
-import bones from "../../assets/product-cover-124 sec-.png"
-import doctor from "../../assets/product-cover-125 sec-.png"
 
 const Sales = () => {
   return (

@@ -1,4 +1,3 @@
-import React from "react";
 import girls from "../../assets/technology2.png";
 
 const Department = () => {

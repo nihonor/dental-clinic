@@ -1,6 +1,5 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { IoMenuSharp } from "react-icons/io5";
-import { MdOutlineLightMode } from "react-icons/md";
 import { RxCross1 } from "react-icons/rx";
 
 const Nav = () => {

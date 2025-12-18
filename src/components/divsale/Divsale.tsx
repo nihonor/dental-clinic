@@ -1,5 +1,3 @@
-import React from "react";
-import sale from "../../assets/product-cover-124 sec-.png";
 
 interface Props{
   img:string,

@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import user from "../../assets/testimonial-user-cover-103.png";
+import { useState } from "react";
 import { FaStar } from "react-icons/fa6";
+import user from "../../assets/testimonial-user-cover-103.png";
 const Client = () => {
   const [rating, setRating] = useState<number | null>(null); 
   const [hover, setHover] = useState<number | null>(null);
